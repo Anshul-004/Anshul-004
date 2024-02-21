@@ -41,4 +41,4 @@
 
 ## 📊 Statistics
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anshul-004&show_icons=true&theme=dark&locale=en" alt="anshul-004" /></p>
+<div><img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul-004"/></div>
