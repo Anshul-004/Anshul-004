@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/anshulsingh-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshulsingh-" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15533153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15533153" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anshul_51" target="blank" color = "white"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anshul_51" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anshul_51" target="blank"><img align="center" src="https://icons8.com/icon/LnZMjt9rZC3d/codechef" alt="anshul_51" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/anshul__singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anshul__singh" height="30" width="40" /></a>
 </p>
 
