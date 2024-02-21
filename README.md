@@ -1,6 +1,6 @@
 
 # Hi, I'm Anshul! 👋
-<div align="right">![Profile View Counter](https://komarev.com/ghpvc/?username=anshul-004) </div>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=anshul-004&label=Profile%20views&color=49cc42&style=flat" alt="anshul-004" /> </p>
 
 
 👩‍💻 I'm currently working on **Databases using SQL and Nodejs.**
