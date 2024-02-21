@@ -1,6 +1,6 @@
 
 # Hi, I'm Anshul! 👋
-![Profile View Counter](https://komarev.com/ghpvc/?username=anshul-004)
+<div align="right">![Profile View Counter](https://komarev.com/ghpvc/?username=anshul-004) </div>
 
 
 👩‍💻 I'm currently working on **Databases using SQL and Nodejs.**
@@ -41,5 +41,4 @@
 
 ## 📊 Statistics
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anshul-004&theme=algolia&show_icons=true)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshul-004&theme=dark" alt="anshul-004" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anshul-004&show_icons=true&theme=dark&locale=en" alt="anshul-004" /></p>
