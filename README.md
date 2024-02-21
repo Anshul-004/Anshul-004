@@ -1,6 +1,6 @@
-### Hi,
-- 🌱 I’m currently learning Data Structures and Algorithms using C++
-- 👯 I’m looking to collaborate on Projects Related to C++ and Backend Systems 
+### Hi There,
+- 🌱 I’m currently learning backend technologies and databases like sql,nodejs
+- 👯 I’m looking to collaborate on Projects Related to Backend Systems with databases 
 [![An image of @anshul004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshul004)](https://holopin.io/@anshul004)
 
 <!--
