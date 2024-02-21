@@ -1,6 +1,6 @@
 
 # Hi, I'm Anshul! 👋
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=anshul-004&label=Profile%20views&color=#00308F&style=flat" alt="anshul-004" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=anshul-004&label=Profile%20views&color=00308F&style=flat" alt="anshul-004" /> </p>
 
 
 👩‍💻 I'm currently working on **Databases using SQL and Nodejs.**
