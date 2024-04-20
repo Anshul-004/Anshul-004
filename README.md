@@ -5,7 +5,7 @@
 
 👩‍💻 I'm currently working on **Databases using SQL and Nodejs.**
 
-🧠 I'm currently learning **Databases like SQL,MongoDB etc.**
+🧠 I'm currently learning **Databases like MySQL,MongoDB etc.**
 
 👯‍♀️ I'm looking to collaborate on **Backend Projects.**
 
